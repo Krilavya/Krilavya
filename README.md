@@ -29,6 +29,6 @@ Spring Boot + PostgreSQL + JWT + Swagger
 
 ## Contact
 
-LinkedIn:linkedin.com/in/krishna-guntuka-758a37329
+LinkedIn:https://linkedin.com/in/krishna-guntuka-758a37329
 
 Email:krishna784265@gmail.com
